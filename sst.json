@@ -1,0 +1,5 @@
+{
+  "name": "nest-api",
+  "region": "us-east-1",
+  "main": "infrastructure/index.ts"
+}
